@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RM Villa</h1>
 <h3 align="center">An Aspiring Backend/ML/Ai Engineer</h3>
 
-- 🔭 I’m currently working on **Building My Resume** and **https://github.com/eigenlambda123/student_progress_tracker.git**
+- 🔭 I’m currently working on **Building my Skills**
 
 - 🌱 I’m currently learning **Machine learning**
 
