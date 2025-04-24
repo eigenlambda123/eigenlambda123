@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RM Villa</h1>
 <h3 align="center">An Aspiring Backend/ML/Ai Engineer</h3>
 
-- 🔭 I’m currently working on **Building my Skills**
+- 🔭 I’m currently working on **Deepening My Backend Knowledge**
 
 - 🌱 I’m currently learning **Machine learning**
 
