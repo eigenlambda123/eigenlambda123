@@ -3,11 +3,13 @@
 
 - 🔭 currently **Deepening My Backend Knowledge**
 
-- 🌱 currently learning **Machine learning**
+- 🌱 currently studying **Machine learning**
 
 - 📫 How to reach me: **rmvilla987@gmail.com**
 
-- ⚡ Fun fact **I'm A Freshman at Manual S. Enverga University Foundation**
+- ⚡ Fun fact 1 **I'm A Freshman at Manual S. Enverga University Foundation**
+
+- ⚡ Fun fact 2 **I'm a nice very guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
