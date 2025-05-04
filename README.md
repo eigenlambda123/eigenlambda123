@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm RM Villa</h1>
-<h3 align="center">An Aspiring Backend/ML/Ai Engineer</h3>
+<h1 align="center">Hallo ;), I'm RM Villa</h1>
+<h3 align="center">Aspiring Backend/ML/Ai Engineer</h3>
 
-- 🔭 I’m currently working on **Deepening My Backend Knowledge**
+- 🔭 currently **Deepening My Backend Knowledge**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 currently learning **Machine learning**
 
-- 📫 How to reach me **rmvilla987@gmail.com**
+- 📫 How to reach me: **rmvilla987@gmail.com**
 
 - ⚡ Fun fact **I'm A Freshman at Manual S. Enverga University Foundation**
 
