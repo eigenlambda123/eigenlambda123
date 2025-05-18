@@ -52,5 +52,5 @@
 
 *I personally like learning and building as I go. If you wanna collab, chat, or just say hi, my inbox is always open, If you’ve read this far, we’re probably gonna get along. Hit me up on Facebook. ;)*
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eigenlambda123&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
