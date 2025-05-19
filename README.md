@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! Name's RM Villa ;D</h1>
-<h3 align="center">Trying to Make Servers Talk, Machines Learn, and Errors Disappear</h3>
+<h3 align="center">Trying to Make Servers Talk, Machines Learn, and Logs Make Sense</h3>
 
 - Currently forging backend magic with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** -- part grind, part wizardry
 - Neck-deep in ML -- drowning occasionally, learning constantly
