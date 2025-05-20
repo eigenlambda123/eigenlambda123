@@ -1,10 +1,12 @@
 <h1 align="center">Hey there! Name's RM Villa ;D</h1>
 <h3 align="center">Trying to Make Servers Talk, Machines Learn, and Logs Make Sense</h3>
 
-- Currently forging backend magic with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** -- part grind, part wizardry
-- Neck-deep in ML -- drowning occasionally, learning constantly
+- Currently forging backend magic with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — part grind, part wizardry  
+- Diving deep into math with **[Project10X-Linear-Algebra-Edition](https://github.com/eigenlambda123/Project10X-Linear-Algebra-Edition.git)** — mastering linear algebra through projects inspired by Strang’s book  
+- Crunching data and probabilities in **[Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git)** — building solid stats fundamentals one project at a time  
+- Neck-deep in ML — drowning occasionally, learning constantly  
 + 📫 You can reach me anytime at **rmvilla987@gmail.com**  
-+ 🎓 Freshman at **Manual S. Enverga University Foundation** -- just getting started, but hungry to learn  
++ 🎓 Freshman at **Manual S. Enverga University Foundation** — just getting started, but hungry to learn  
 + ⚡ Fun fact: I'm easy to talk to (seriously, don’t be shy!). But for real tho... ples talk to me :(
 
 <h3 align="left">Connect with me:</h3>
@@ -50,6 +52,4 @@
 
 ---
 
-*I personally like learning and building as I go. If you wanna collab, chat, or just say hi, my inbox is always open, If you’ve read this far, we’re probably gonna get along. Hit me up on Facebook. ;)*
-
-
+*I personally like learning and building as I go. If you wanna collab, chat, or just say hi, my inbox is always open. If you’ve read this far, we’re probably gonna get along. Hit me up on Facebook. ;)*  
