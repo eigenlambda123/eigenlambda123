@@ -2,9 +2,9 @@
 <h3 align="center">Trying to Make Servers Talk, Machines Learn, and Logs Make Sense</h3>
 
 - Currently forging backend skills with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — a curated series of backend projects designed to build real-world skills efficiently  
-- Deepening math knowledge through **[Project10X-Linear-Algebra-Edition](https://github.com/eigenlambda123/Project10X-Linear-Algebra-Edition.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
+- Deepening math knowledge through **[Project10X-Linear-Algebra](https://github.com/eigenlambda123/Project10X-Linear-Algebra.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
 - Building solid statistics foundations with **[Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git)** — structured projects that cover key statistics topics from basics to advanced analysis  
-- Developing intuition and practical skills in calculus through **Project10X-Calculus-Edition** — an intuition-first, project-based approach starting from limits (repo coming soon)  
+- Developing intuition and practical skills in calculus through **[Project10X-Calculus](https://github.com/eigenlambda123/Project10X-Calculus.git)** — an intuition-first, project-based approach starting from limits and building upwards     
 - Continuously exploring machine learning fundamentals while balancing backend and math learning  
 - 📫 Reach me anytime at **rmvilla987@gmail.com**  
 - 🎓 Freshman at **Manual S. Enverga University Foundation**, motivated to learn and grow  
@@ -55,8 +55,8 @@
 **Project10X** is my personalized, project-driven approach to mastering backend development and foundational math skills through a curated set of real-world projects and problems.
 
 - **Backend Builder Series:**  
-  A focused roadmap of ~8–10 backend projects that cover APIs, authentication, filtering, aggregation, deployment, and testing (planned). I’ve completed two projects and continue building new ones to deepen my backend expertise.
-
+  A focused roadmap of ~10 backend projects that cover APIs, authentication, filtering, aggregation, deployment, and testing (planned).
+  
 - **Linear Algebra Edition:**  
   Learning linear algebra deeply using projects inspired by Gilbert Strang’s textbook. This series emphasizes intuition, proofs, and practical applications to build strong mathematical foundations.
 
