@@ -61,7 +61,7 @@
   Learning linear algebra deeply using projects inspired by Gilbert Strang’s textbook. This series emphasizes intuition, proofs, and practical applications to build strong mathematical foundations.
 
 - **Stats Edition:**  
-  Structured projects to master key statistical concepts, including computation of mean, median, mode, variance, standard deviation, interquartile range, and outlier detection.
+  Structured projects designed to build a solid understanding of fundamental statistical concepts and their practical applications.
 
 - **Calculus Edition:**  
   An intuition-first, project-based study of calculus starting from limits and building upward. This series aims to strengthen my understanding of calculus in a practical context.
