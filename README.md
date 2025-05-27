@@ -1,13 +1,13 @@
-<h1 align="center">Hey there! Name's RM Villa ;D</h1>
+<h1 align="center">Hey there! Name's RM Villa</h1>
 <h3 align="center">Trying to Make Servers Talk, Machines Learn, and Logs Make Sense</h3>
 
-- Currently forging backend magic with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — part grind, part wizardry  
-- Diving deep into math with **[Project10X-Linear-Algebra-Edition](https://github.com/eigenlambda123/Project10X-Linear-Algebra-Edition.git)** — mastering linear algebra through projects inspired by Strang’s book  
-- Crunching data and probabilities in **[Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git)** — building solid stats fundamentals one project at a time  
-- Neck-deep in ML — drowning occasionally, learning constantly  
-+ 📫 You can reach me anytime at **rmvilla987@gmail.com**  
-+ 🎓 Freshman at **Manual S. Enverga University Foundation** — just getting started, but hungry to learn  
-+ ⚡ Fun fact: I'm easy to talk to (seriously, don’t be shy!). But for real tho... ples talk to me :(
+- Currently forging backend skills with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — a curated series of backend projects designed to build real-world skills efficiently  
+- Deepening math knowledge through **[Project10X-Linear-Algebra-Edition](https://github.com/eigenlambda123/Project10X-Linear-Algebra-Edition.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
+- Building solid statistics foundations with **[Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git)** — structured projects that cover key statistics topics from basics to advanced analysis  
+- Developing intuition and practical skills in calculus through **Project10X-Calculus-Edition** — an intuition-first, project-based approach starting from limits (repo coming soon)  
+- Continuously exploring machine learning fundamentals while balancing backend and math learning  
+- 📫 Reach me anytime at **rmvilla987@gmail.com**  
+- 🎓 Freshman at **Manual S. Enverga University Foundation**, motivated to learn and grow  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,34 +21,52 @@
 
 ---
 
-<h3 align="left">🧪 Stack I Use to Build and (Sometimes) Break Things</h3>
+<h3 align="left">Tech Stack I Use to Build and Learn</h3>
 
 - **Languages & Scripting:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  *(Also HTML & CSS but let’s be real, everyone has those 😅)*
+  *(Also HTML & CSS for minimal frontend testing purposes)*
 
-- **Frameworks & Libs I vibe with:**  
+- **Frameworks & Libraries:**  
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
   ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white) *(Django REST Framework)*  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) *(currently learning)*  
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-- **Databases (the good, the weird, the SQL):**  
+- **Databases:**  
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- **DevOps & Tools (aka stuff that makes life easier):**  
+- **DevOps & Tools:**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- **ML / AI Tools (I'm still cooking 🤖):**  
+- **Machine Learning Tools:**  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+<h3 align="left">About Project10X: My Structured Learning Method</h3>
+
+**Project10X** is my personalized, project-driven approach to mastering backend development and foundational math skills through a curated set of real-world projects and problems.
+
+- **Backend Builder Series:**  
+  A focused roadmap of ~8–10 backend projects that cover APIs, authentication, filtering, aggregation, deployment, and testing (planned). I’ve completed two projects and continue building new ones to deepen my backend expertise.
+
+- **Linear Algebra Edition:**  
+  Learning linear algebra deeply using projects inspired by Gilbert Strang’s textbook. This series emphasizes intuition, proofs, and practical applications to build strong mathematical foundations.
+
+- **Stats Edition:**  
+  Structured projects to master key statistical concepts, including computation of mean, median, mode, variance, standard deviation, interquartile range, and outlier detection.
+
+- **Calculus Edition:**  
+  An intuition-first, project-based study of calculus starting from limits and building upward. This series aims to strengthen my understanding of calculus in a practical context.
+
+This method helps me maintain a balanced weekly schedule, integrating backend development, math, machine learning, and minimal frontend work for testing purposes.
 
 ---
 
