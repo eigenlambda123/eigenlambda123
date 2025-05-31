@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! Name's RM Villa</h1>
-<h3 align="center">Trying to Make Servers Talk, Machines Learn, and Logs Make Sense</h3>
+<h3 align="center">Trying to Make Servers Talk, Machines Learn, and mostly — writing tests for bugs I swore couldn't happen</h3>
 
 - Currently forging backend skills with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — a curated series of backend projects designed to build real-world skills efficiently  
 - Deepening math knowledge through **[Project10X-Linear-Algebra](https://github.com/eigenlambda123/Project10X-Linear-Algebra.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
