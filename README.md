@@ -2,8 +2,8 @@
 <h3 align="center">Trying to Make Servers Talk, Machines Learn, and mostly — writing tests for bugs I swore couldn't happen</h3>
 
 - Currently forging backend skills with **[Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series)** — a curated series of backend projects designed to build real-world skills efficiently  
-- Deepening math knowledge through **[Project10X-Linear-Algebra](https://github.com/eigenlambda123/Project10X-Linear-Algebra.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
-- Building solid statistics foundations with **[Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git)** — structured projects that cover key statistics topics from basics to advanced analysis  
+- Deepening math knowledge through **[Project10X-LinearAlgebra](https://github.com/eigenlambda123/Project10X-LinearAlgebra.git)** — mastering linear algebra concepts via project-driven learning inspired by Gilbert Strang’s textbook  
+- Building solid statistics foundations with **[Project10X-Statistics](https://github.com/eigenlambda123/Project10X-Statistics.git)** — structured projects that cover key statistics topics from basics to advanced analysis  
 - Developing intuition and practical skills in calculus through **[Project10X-Calculus](https://github.com/eigenlambda123/Project10X-Calculus.git)** — an intuition-first, project-based approach starting from limits and building upwards     
 - Continuously exploring machine learning fundamentals while balancing backend and math learning  
 - 📫 Reach me anytime at **rmvilla987@gmail.com**  
