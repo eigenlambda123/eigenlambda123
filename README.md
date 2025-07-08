@@ -34,7 +34,7 @@ Actively pursuing:
 - Technical prototyping roles in early-stage ventures
 - Collaborations on hackathons, data-driven MVPs, or open-source efforts
 
-**📧 rmvilla987@gmail.com** • **LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm/)
+**Gmail:** rmvilla987@gmail.com • **LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm/)
 
 ---
 
