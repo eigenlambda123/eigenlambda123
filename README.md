@@ -8,13 +8,14 @@
 
 ### Tech Stack
 
-- **Languages:** Python, C++, Java 
-- **Frameworks:** FastAPI, SQLModel, Django, DRF
-- **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks  
+- **Languages:** Python, C++, Java  
+- **Frameworks:** FastAPI, SQLModel, Django, DRF  
+- **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks, Celery  
 - **Databases:** PostgreSQL, SQLite, MySQL  
-- **Data & ML:** Pandas, Scikit‑learn, Matplotlib, TensorFlow (intro)  
-- **DevOps & Tools:** Git, Docker, Linux  
-- **Testing:** APIClient, unittest/pytest, end-to-end coverage
+- **Data & ML:** Pandas, NumPy, Scikit‑learn, Matplotlib, TensorFlow (intro), ML from scratch  
+- **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis  
+- **Testing:** APIClient, unittest/pytest, E2E test coverage  
+- **CLI & Scripting:** argparse, subprocess, terminal tools
 
 ---
 
@@ -22,20 +23,22 @@
 
 A self-designed, milestone-driven learning system:
 
-- **10 projects per domain**, each with a unique technical goal 
-- Emphasis on **depth over breadth**—understanding systems, edge cases, and clean design
-- Math areas (stats, linear algebra, calculus) tied to backend tasks like ML and API modeling
+- **10 projects per domain**, each with a unique technical goal  
+- Emphasis on **depth over breadth**—understanding systems, edge cases, and clean design  
+- Math series (10x Linear Algebra, Stats, Calculus) tied to backend tasks like ML pipelines, simulations, and API modeling
 
 ---
 
 ### Professional Goals
 
 Actively pursuing:
-- Backend dev internships (remote or PH-based)
-- Technical prototyping roles in early-stage ventures
-- Collaborations on hackathons, data-driven MVPs, or open-source efforts
 
-**Gmail:** rmvilla987@gmail.com • **LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm/)
+- Backend dev internships (remote or PH-based)  
+- Technical prototyping roles in early-stage ventures  
+- Collaborations on hackathons, data-driven MVPs, or open-source efforts  
+
+**Gmail:** rmvilla987@gmail.com  
+**LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm/)
 
 ---
 
