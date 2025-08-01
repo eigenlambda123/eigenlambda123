@@ -12,7 +12,7 @@
 - **Frameworks:** FastAPI, SQLModel, Django, DRF  
 - **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks, Celery  
 - **Databases:** PostgreSQL, SQLite, MySQL  
-- **Data & ML:** Pandas, NumPy, Scikit‑learn, Matplotlib, TensorFlow (intro), ML from scratch  
+- **Data & ML:** Pandas, NumPy, Scikit‑learn, Matplotlib
 - **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis  
 - **Testing:** APIClient, `unittest`/`pytest`, E2E test coverage 
 
