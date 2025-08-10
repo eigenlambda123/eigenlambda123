@@ -1,7 +1,9 @@
 <h1 align="center">RM Villa</h1>
 <h3 align="center">Backend Developer · Project-Based Learner · Systems & Math Focused</h3>
 <p align="center">
-  I build backend systems from the ground up and teach myself math through high-impact, real-world projects—no fluff, no shortcuts.
+  I build backend systems from the ground up and teach myself math through high-impact, hands-on projects—no shortcuts, no filler.
+  
+  Sometimes I write code. Sometimes I stare at the terminal waiting for the magic to happen.  
 </p>
 
 ---
