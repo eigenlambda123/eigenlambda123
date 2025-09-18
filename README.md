@@ -1,9 +1,9 @@
 <h1 align="center">RM Villa</h1>
-<h3 align="center">Backend Developer · Project-Based Learner · Systems & Math Explorer</h3>
+<h3 align="center">Backend Engineer · Project10X Creator · Systems & ML Explorer</h3>
 <p align="center">
-  I design and build backend systems from the ground up.  
-  My learning path is project-driven—applying math, algorithms, and software design through hands-on experiments.  
-  Sometimes I write code. Sometimes I stare at the terminal, waiting for the magic to happen.
+  I’m a student exploring backend development—learning to design clean APIs, scalable architectures, and resilient data flows.  
+  My learning path is <b>project-driven</b>, applying math, algorithms, and software design through hands-on experiments.  
+  I enjoy connecting backend systems with <b>machine learning</b>, building simulations and pipelines that turn math into working code.  
 </p>
 
 ---
@@ -16,36 +16,37 @@
 - **Databases:** PostgreSQL, SQLite, MySQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
 - **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis  
-- **Testing:** APIClient, `pytest`/`unittest`, E2E test coverage  
+- **Testing:** APIClient, `pytest` / `unittest`, E2E coverage  
 
 ---
 
-### Learning Framework: Project10X
+### Project10X Learning Framework
 
-A self-designed, **milestone-driven learning system** based on progressive projects:
+A **progressive, project-based system** I designed to accelerate mastery:
 
-- **10 projects per domain**, each building deeper technical mastery  
-- Focus on **systems thinking, edge cases, and clean design**  
-- Math series (10x Linear Algebra, Stats, Calculus) connected to backend work:  
-  simulations, ML pipelines, and API-driven modeling  
-
----
-
-### Professional Goals
-
-Currently focused on:
-
-- Backend developer internships (remote or PH-based)  
-- Technical prototyping roles in early-stage ventures  
-- Collaborations in hackathons, data-driven MVPs, or open-source projects  
+- **10 projects per domain** → each one building complexity & depth  
+- Focus on **systems thinking, edge cases, and production-level clarity**  
+- Current series:  
+  - **Backend:** FastAPI Builder Series (completed), Django REST mastery  
+  - **Math:** 10x Linear Algebra, 10x Stats, 10x Calculus  
+  - **ML Models:** project-driven exploration of regression, gradient descent, and beyond  
 
 ---
 
-### Connect
+### Current Focus
+
+- Building **backend prototypes** and **API-driven systems**  
+- Exploring **mathematics + machine learning pipelines** for future startup ideas  
+- Participating in a lot of **hackathons & open-source projects**  
+- Preparing for **internships** (remote or PH-based) with strong backend emphasis  
+
+---
+
+### 📬 Connect
 
 - **Email:** rmvilla987@gmail.com  
 - **LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm)  
 
 ---
 
-<p align="center"><i>“I solve real problems so I can one day build something that matters.”</i></p>
+<p align="center"><i>“I solve real problems today so I can build something that matters tomorrow.”</i></p>
