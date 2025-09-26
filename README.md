@@ -27,7 +27,7 @@ A **progressive, project-based system** I designed to accelerate mastery:
 - **10 projects per domain** → each one building complexity & depth  
 - Focus on **systems thinking, edge cases, and production-level clarity**  
 - Current series:  
-  - **Backend:** FastAPI Builder Series (completed), Django REST mastery  
+  - **Backend:** 10x FastAPI (completed)
   - **Math:** 10x Linear Algebra, 10x Stats, 10x Calculus  
   - **ML Models:** project-driven exploration of regression, gradient descent, and beyond  
 
