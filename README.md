@@ -10,8 +10,8 @@
 
 ### Tech Stack
 
-- **Languages:** Python, C++, Java  
-- **Frameworks & Libraries:** FastAPI, SQLModel, Django, DRF  
+- **Languages:** Python, Javascript, C++, Java  
+- **Frameworks & Libraries:** FastAPI, SQLModel, Django, DRF, React  
 - **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks, Celery  
 - **Databases:** PostgreSQL, SQLite, MySQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
