@@ -1,5 +1,5 @@
 <h1 align="center">RM Villa</h1>
-<h3 align="center">Backend Engineer · Project10X Creator · Systems & ML Explorer</h3>
+<h3 align="center">Backend Engineer · Project10X · Machine Learning</h3>
 <p align="center">
   I’m a student exploring backend development—learning to design clean APIs, scalable architectures, and resilient data flows.  
   My learning path is <b>project-driven</b>, applying math, algorithms, and software design through hands-on experiments.  
