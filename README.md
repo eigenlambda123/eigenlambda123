@@ -15,7 +15,7 @@
 - **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks, Celery  
 - **Databases:** PostgreSQL, SQLite, MySQL  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
-- **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis  
+- **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis, Render, Vercel  
 - **Testing:** APIClient, `pytest` / `unittest`, E2E coverage  
 
 ---
