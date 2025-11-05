@@ -1,10 +1,12 @@
 <h1 align="center">RM Villa</h1>
 <h3 align="center">Backend Engineer · Project10X · Machine Learning</h3>
 <p align="center">
-  I’m a student exploring backend development—learning to design clean APIs, scalable architectures, and resilient data flows.  
-  My learning path is <b>project-driven</b>, applying math, algorithms, and software design through hands-on experiments.  
-  I enjoy connecting backend systems with <b>machine learning</b>, building simulations and pipelines that turn math into working code.  
+  I’m a 2nd year CS student focused on backend development—building clean APIs, scalable systems, and reliable data flows.  
+  My learning approach is <b>project-driven</b>, combining math, algorithms, and software design through hands-on exploration.  
+  I’m especially interested in bridging backend systems with <b>machine learning</b>, turning mathematical ideas into working code.  
 </p>
+
+
 
 ---
 
