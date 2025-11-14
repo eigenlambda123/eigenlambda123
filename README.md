@@ -1,53 +1,70 @@
-<h1 align="center">RM Villa</h1>
-<h3 align="center">Backend Engineer · Project10X · Machine Learning</h3>
+# RM Villa
+
 <p align="center">
-  I’m a 2nd year CS student focused on backend development—building clean APIs, scalable systems, and reliable data flows.  
-  My learning approach is <b>project-driven</b>, combining math, algorithms, and software design through hands-on exploration.  
-  I’m especially interested in bridging backend systems with <b>machine learning</b>, turning mathematical ideas into working code.  
+  <img src="https://img.shields.io/badge/Backend%20Engineer-FastAPI%20%7C%20SQLModel-blue" alt="badge-1" />
+  <img src="https://img.shields.io/badge/Project10X-Learning%20Engine-orange" alt="badge-2" />
+  <img src="https://img.shields.io/badge/ML%20Systems-Active%20Track-green" alt="badge-3" />
 </p>
 
+**Backend Engineer · Project10X Architect · ML Systems Trainee**
 
-
----
-
-### Tech Stack
-
-- **Languages:** Python, Javascript, C++, Java  
-- **Frameworks & Libraries:** FastAPI, SQLModel, Django, DRF, React  
-- **Auth & APIs:** OAuth2, JWT, `httpx`, BackgroundTasks, Celery  
-- **Databases:** PostgreSQL, SQLite, MySQL  
-- **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib  
-- **DevOps & Tools:** Git, Docker, Docker Compose, Linux, Redis, Render, Vercel  
-- **Testing:** APIClient, `pytest` / `unittest`, E2E coverage  
+I build backend-first systems with a bias for clean API surfaces, async workflows, and data-driven pipelines. My learning model is **Project10X** — a disciplined, project-centric framework that converts mathematical insight and algorithmic rigor into deployable prototypes.
 
 ---
 
-### Project10X Learning Framework
+## Tech Stack
 
-A **progressive, project-based system** I designed to accelerate mastery:
+<details>
+<summary><strong>View Stack</strong></summary>
 
-- **10 projects per domain** → each one building complexity & depth  
-- Focus on **systems thinking, edge cases, and production-level clarity**  
-- Current series:  
-  - **Backend:** 10x FastAPI (completed)
-  - **Math:** 10x Linear Algebra, 10x Stats, 10x Calculus  
-  - **ML Models:** project-driven exploration of regression, gradient descent, and beyond  
+**Languages:** Python, JavaScript/TypeScript, Java, C++
+**Backend:** FastAPI, SQLModel, Django, DRF, Celery, Redis
+**Auth & APIs:** OAuth2, JWT, httpx, BackgroundTasks, async orchestration
+**Databases:** PostgreSQL, SQLite, MySQL
+**ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib
+**Frontend:** React (Vite), Tailwind, Chakra UI
+**DevOps & Tools:** Docker, Docker Compose, Git, Linux (WSL), Render, Vercel
+**Testing:** pytest, unittest, APIClient, E2E patterns
 
----
-
-### Current Focus
-
-- Building **backend prototypes** and **API-driven systems**  
-- Exploring **mathematics + machine learning pipelines** for future startup ideas  
-- Participating in a lot of **hackathons & open-source projects**  
-- Preparing for **internships** (remote or PH-based) with strong backend emphasis  
+</details>
 
 ---
 
-### 📬 Connect
+## Project10X — My Learning Engine
 
-- **Email:** rmvilla987@gmail.com  
-- **LinkedIn:** [linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm)  
+### Core Architecture
+
+| Domain                   | Current Stage                             | Status      |
+| ------------------------ | ----------------------------------------- | ----------- |
+| FastAPI Backend          | Dockerized production API                 | ✅ Completed |
+| Linear Algebra           | MatrixOps engine, basis tools             | Active      |
+| Statistics / Probability | Distribution simulators, PMF/PDF overlays | Active      |
+| Calculus                 | Limits → derivatives → integrals          | Active      |
+| ML Models                | Regression stack + GD variants            | Active      |
+
+Project10X enforces iteration, edge-case reasoning, and production-level expectations across 10 progressive projects per domain.
+
+---
+
+## Current Focus
+
+<details>
+<summary><strong>Execution Priorities</strong></summary>
+
+* Engineering **backend prototypes** and **API-driven systems** optimized for hackathons
+* Joining and actively competing in **hackathons** to pressure-test architecture, velocity, and teamwork
+* Developing **math-grounded ML pipelines** aligned with startup-grade systems
+* Exploring **simulation engines**, async job systems, and model-wrapping APIs
+* Preparing for **internships** with a backend + ML systems tilt
+
+</details>
+
+---
+
+## Connect
+
+**Email:** [rmvilla987@gmail.com](mailto:rmvilla987@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/rmvilla](https://www.linkedin.com/in/rmvilla)
 
 ---
 
