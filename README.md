@@ -18,13 +18,21 @@ I build backend-first systems with a bias for clean API surfaces, async workflow
 <summary><strong>View Stack</strong></summary>
 
 **Languages:** Python, JavaScript/TypeScript, Java, C++
+
 **Backend:** FastAPI, SQLModel, Django, DRF, Celery, Redis
+
 **Auth & APIs:** OAuth2, JWT, httpx, BackgroundTasks, async orchestration
+
 **Databases:** PostgreSQL, SQLite, MySQL
+
 **ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib
+
 **Frontend:** React (Vite), Tailwind, Chakra UI
+
 **DevOps & Tools:** Docker, Docker Compose, Git, Linux (WSL), Render, Vercel
+
 **Testing:** pytest, unittest, APIClient, E2E patterns
+
 
 </details>
 
