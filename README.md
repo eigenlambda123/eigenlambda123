@@ -55,7 +55,7 @@ Project10X enforces iteration, edge-case reasoning, and production-level expecta
 * Joining and actively competing in **hackathons** to pressure-test architecture, velocity, and teamwork
 * Developing **math-grounded ML pipelines** aligned with startup-grade systems
 * Exploring **simulation engines**, async job systems, and model-wrapping APIs
-* Preparing for **internships** with a backend + ML systems tilt
+* Preparing for **internships** with a backend + ML systems emphasis
 
 </details>
 
