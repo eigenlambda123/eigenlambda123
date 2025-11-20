@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/ML%20Systems-Active%20Track-green" alt="badge-3" />
 </p>
 
-**Backend Engineer · Project10X Architect · ML Systems Trainee**
+**Backend Engineer · Project10X Architect · ML Systems**
 
 I build backend-first systems with a bias for clean API surfaces, async workflows, and data-driven pipelines. My learning model is **Project10X** — a disciplined, project-centric framework that converts mathematical insight and algorithmic rigor into deployable prototypes.
 
