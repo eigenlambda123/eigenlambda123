@@ -65,7 +65,7 @@ Project10X enforces iteration, edge-case reasoning, and production-level expecta
 
 **Email:** [rmvilla987@gmail.com](mailto:rmvilla987@gmail.com)
 
-**LinkedIn:** [https://www.linkedin.com/in/rmvilla](https://www.linkedin.com/in/rmvilla)
+**LinkedIn:** [https://www.linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm)
 
 ---
 
