@@ -1,7 +1,7 @@
 # RM Villa
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineer-FastAPI%20%7C%20SQLModel-blue" alt="badge-1" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-Python%20%7C%20FastAPI-Django-blue" alt="badge-1" />
   <img src="https://img.shields.io/badge/Project10X-Learning%20Engine-orange" alt="badge-2" />
   <img src="https://img.shields.io/badge/ML%20Systems-Active%20Track-green" alt="badge-3" />
 </p>
