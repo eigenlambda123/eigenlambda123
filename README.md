@@ -38,7 +38,7 @@ I build backend-first systems with a bias for clean API surfaces, async workflow
 | ------------------------ | ----------------------------------------- | ----------- |
 | FastAPI Backend          | Dockerized production API                 | ✅ Completed |
 | Linear Algebra           | MatrixOps engine, basis tools             | Active      |
-| Statistics / Probability | Distribution simulators, PMF/PDF overlays | Active      |
+| Statistics / Probability | Distribution simulators, PMF/PDF          | Active      |
 | Calculus                 | Limits → derivatives → integrals          | Active      |
 | ML Models                | Regression stack + GD variants            | Active      |
 
