@@ -21,7 +21,7 @@
 <details>
 <summary><strong>What I do</strong></summary>
 
-* I like joining hackaton
+* I like joining hackatons
 * I dont like math but i need it for ml
 
 </details>
