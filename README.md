@@ -10,7 +10,7 @@
 <details>
 <summary><strong>View Stack</strong></summary>
 
-**I only use Python**
+* I only like using **Python**
 
 </details>
 
