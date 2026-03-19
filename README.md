@@ -10,14 +10,7 @@
 <details>
 <summary><strong>View Stack</strong></summary>
 
-* **Languages:** Python, JavaScript/TypeScript, Java, C++
-* **Backend:** FastAPI, SQLModel, Django, DRF, Celery, Redis
-* **Auth & APIs:** OAuth2, JWT, httpx, BackgroundTasks, async orchestration
-* **Databases:** PostgreSQL, SQLite, MySQL
-* **ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib
-* **Frontend:** React (Vite), Tailwind, Chakra UI
-* **DevOps & Tools:** Docker, Docker Compose, Git, Linux (WSL), Render, Vercel
-* **Testing:** pytest, unittest, APIClient, E2E patterns
+**I only use Python**
 
 </details>
 
@@ -26,12 +19,10 @@
 ## Current Focus
 
 <details>
-<summary><strong>Execution Priorities</strong></summary>
+<summary><strong>What I do</strong></summary>
 
-* Engineering **backend prototypes** and **API-driven systems** optimized for hackathons
-* Joining and actively competing in **hackathons**
-* Developing **math-grounded ML pipelines** aligned with startup-grade systems
-* Preparing for **internships** with a backend + ML systems emphasis
+* I like joining hackaton
+* I dont like math but i need it for ml
 
 </details>
 
@@ -45,4 +36,4 @@
 
 ---
 
-<p align="center"><i>“I solve real problems today so I can build something that matters tomorrow.”</i></p>
+<p align="center"><i>“Believe it or not but I really want to build something that helps humanity.”</i></p>
