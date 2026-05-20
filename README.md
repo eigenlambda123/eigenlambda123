@@ -16,16 +16,16 @@
 
 ## Focus & Interests
 
-### Research & Theory
-* Driven by ML research that bridges **theory and practical application**.
-* I don't like math but I need it for ML (currently grinding through **Linear Algebra & Calculus**).
-* Deconstructing **Transformer Architectures** (encoders, decoders, and multi-head attention).
+**Research & Theory**
+* I'm Interested in ML and DeepLearning research that bridges **theory and practical application**.
+* I generally don't like math but I need it for ML (currently grinding through **Linear Algebra & Calculus**).
+* I'm currently learning about **Transformer Architectures** (encoders, decoders, and multi-head attention).
 
-### Engineering & Architecture
+**Engineering & Architecture**
 * Exploring the intersection of data pipelines and **Software Architecture**.
 * Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems.
 
-### Hackathons & Community
+**Hobby**
 * I love joining hackathons.
 
 ---
