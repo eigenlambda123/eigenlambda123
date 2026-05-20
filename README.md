@@ -2,7 +2,6 @@
 
 ### **Backend · Mathematics · ML**
 
-
 ---
 
 ## Tech Stack
@@ -10,19 +9,27 @@
 <details>
 <summary><strong>View Stack</strong></summary>
 
-* I only like using **Python**
+* I only like using **Python** (specifically with **PyTorch**, **NumPy**, and **Scikit-Learn** for ML)
+* For development, my go-to ecosystem is:
+  * **Backend:** FastAPI, SQLModel, Django
+  * **Databases:** PostgreSQL, SQLite
+  * **Frontend & Mobile:** JavaScript, React, Flutter
 
 </details>
 
 ---
 
-## Current Focus
+## Current Focus & Interests
 
 <details>
-<summary><strong>What I do</strong></summary>
+<summary><strong>What I do & love</strong></summary>
 
-* I like joining hackatons
-* I dont like math but i need it for ml
+* I like joining hackathons
+* Driven by research that bridges **theory and practical application**
+* I don't like math but I need it for ML (currently grinding through **Linear Algebra & SVD**)
+* Deconstructing **Transformer Architectures** (encoders, decoders, and multi-head attention)
+* Exploring the intersection of data pipelines and **Software Architecture**
+* Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems
 
 </details>
 
@@ -32,7 +39,7 @@
 
 **Email:** [rmvilla987@gmail.com](mailto:rmvilla987@gmail.com)
 
-**LinkedIn:** [https://www.linkedin.com/in/rmvilla](https://www.linkedin.com/in/villarm)
+**LinkedIn:** [linkedin.com/in/villarm](https://www.linkedin.com/in/villarm)
 
 ---
 
