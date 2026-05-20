@@ -1,13 +1,10 @@
 # RM Villa
 
-### **Backend · Mathematics · ML**
+### **Backend · Mathematics · ML/DL**
 
 ---
 
 ## Tech Stack
-
-<details>
-<summary><strong>View Stack</strong></summary>
 
 * I only like using **Python** (specifically with **PyTorch**, **NumPy**, and **Scikit-Learn** for ML)
 * For development, my go-to ecosystem is:
@@ -15,23 +12,21 @@
   * **Databases:** PostgreSQL, SQLite
   * **Frontend & Mobile:** JavaScript, React, Flutter
 
-</details>
-
 ---
 
-## Current Focus & Interests
+## Focus & Interests
 
-<details>
-<summary><strong>What I do & love</strong></summary>
+### Research & Theory
+* Driven by ML research that bridges **theory and practical application**.
+* I don't like math but I need it for ML (currently grinding through **Linear Algebra & Calculus**).
+* Deconstructing **Transformer Architectures** (encoders, decoders, and multi-head attention).
 
-* I like joining hackathons
-* Driven by research that bridges **theory and practical application**
-* I don't like math but I need it for ML (currently grinding through **Linear Algebra & SVD**)
-* Deconstructing **Transformer Architectures** (encoders, decoders, and multi-head attention)
-* Exploring the intersection of data pipelines and **Software Architecture**
-* Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems
+### Engineering & Architecture
+* Exploring the intersection of data pipelines and **Software Architecture**.
+* Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems.
 
-</details>
+### Hackathons & Community
+* I love joining hackathons.
 
 ---
 
