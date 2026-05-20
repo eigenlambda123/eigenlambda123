@@ -15,12 +15,13 @@
 ## Focus & Interests
 
 **Research & Theory**
-* I'm Interested in ML and DeepLearning research that bridges **theory and practical application**.
-* I generally don't like math but I need it for ML (currently grinding through **Linear Algebra & Calculus**).
+* I'm Interested in **ML** and **Deep Learning** research for both theory and practical application.
+* I generally don't like math but I need it for ML (currently grinding through Linear Algebra & Calculus).
 * I'm currently learning about **Transformer Architectures** (encoders, decoders, and multi-head attention).
 
 **Engineering & Architecture**
-* Exploring the intersection of data pipelines and **Software Architecture**.
+* Designing and building **AI Agents** and autonomous workflows.
+* Exploring the intersection of data pipelines and software architecture.
 * Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems.
 
 **Hobby**
