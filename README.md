@@ -2,7 +2,6 @@
 
 ### **Backend · Mathematics · ML/DL**
 
----
 
 ## Tech Stack
 
@@ -12,7 +11,6 @@
   * **Databases:** PostgreSQL, SQLite
   * **Frontend & Mobile:** JavaScript, React, Flutter
 
----
 
 ## Focus & Interests
 
@@ -28,7 +26,6 @@
 **Hobby**
 * I love joining hackathons.
 
----
 
 ## Connect
 
@@ -36,6 +33,5 @@
 
 **LinkedIn:** [linkedin.com/in/villarm](https://www.linkedin.com/in/villarm)
 
----
 
 <p align="center"><i>“Believe it or not but I really want to build something that helps humanity.”</i></p>
