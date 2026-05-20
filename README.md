@@ -30,7 +30,6 @@
 ## Connect
 
 **Email:** [rmvilla987@gmail.com](mailto:rmvilla987@gmail.com)
-
 **LinkedIn:** [linkedin.com/in/villarm](https://www.linkedin.com/in/villarm)
 
 
