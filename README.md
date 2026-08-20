@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-* I only like using **Python** (specifically with **PyTorch**, **NumPy**, and **Scikit-Learn** for ML)
+* I mainly use **Python** when doing side projects (specifically with **PyTorch**, **NumPy**, and **Scikit-Learn** for ML)
 * For development, my go-to ecosystem is:
   * **Backend:** FastAPI, SQLModel, Django
   * **Databases:** PostgreSQL, SQLite
