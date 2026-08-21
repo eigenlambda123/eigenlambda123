@@ -21,7 +21,7 @@
 **Engineering & Architecture**
 * Designing and building **AI Agents** and autonomous workflows.
 * Exploring the intersection of data pipelines and software architecture.
-* Deeply interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems.
+* ALso interested in **Deep Learning**, **NLP Architecture**, and building robust data engineering systems.
 
 **Hobby**
 * I love joining hackathons.
