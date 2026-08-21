@@ -17,7 +17,6 @@
 **Research & Theory**
 * I'm Interested in **ML** and **Deep Learning** research for both theory and practical application.
 * I generally don't like math but I need it for ML (currently grinding through Linear Algebra & Calculus).
-* I'm currently learning about **Transformer Architectures** (encoders, decoders, and multi-head attention).
 
 **Engineering & Architecture**
 * Designing and building **AI Agents** and autonomous workflows.
